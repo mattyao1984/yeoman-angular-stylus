@@ -1,32 +1,22 @@
 ##What we have here?
-###AngularJS
-
+####AngularJS
 AngularJS is a toolset for building the framework most suited to your application development.
-
 For more information, please check [here](https://angularjs.org/).
 
-###Stylus
-
+####Stylus
 Stylus is expressive, robust, feature-rich CSS preprocessor
-
 For more information, please check [here](http://learnboost.github.io/stylus/).
 
-###Behat
-
+####Behat
 Behat is an open source behavior-driven development framework for PHP 5.3 and 5.4.
-
 For more information, please check [here](http://docs.behat.org/en/v2.5/).
 
-###Grunt
-
+####Grunt
 In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes.
-
 For more information, please check [here](http://gruntjs.com/).
 
-###Karma
-
+####Karma
 Spectacular Test Runner for JavaScript.
-
 For more information, please check [here](http://karma-runner.github.io/0.12/index.html).
 
 
