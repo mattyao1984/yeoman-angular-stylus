@@ -1,40 +1,38 @@
-yeoman-angular-stylus
-=====================
-
 #What we have here?
-
-##AngularJS
+=====================
+###AngularJS
 
 AngularJS is a toolset for building the framework most suited to your application development.
 
 For more information, please check here.
 
-##Stylus
+###Stylus
 
 Stylus is expressive, robust, feature-rich CSS preprocessor
 
 For more information, please check here.
 
-Behat
+###Behat
 
 Behat is an open source behavior-driven development framework for PHP 5.3 and 5.4.
 
 For more information, please check here.
 
-##Grunt
+###Grunt
 
 In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes.
 
 For more information, please check here.
 
-##Karma
+###Karma
 
 Spectacular Test Runner for JavaScript.
 
 For more information, please check here.
 
-#Install & Run
 
+#Install & Run
+=====================
 1. Download from github here, or you can do "git clone https://github.com/mattyao1984/yeoman-angular-stylus.git"
 
 2. Run "npm update -g bower" to update your bower and then run "bower update" in your project folder.
@@ -49,17 +47,18 @@ For more information, please check here.
 
 7. You will see your changes in real-time without refreshing the browser!
 
+
 #What can I do with it now?
+=====================
+###Edit css files with Stylus
+You can edit desktop.styl and mobile.styl
+You can add more .styl files as you like
+All .styl will be built into .css when you make changes
 
-##Edit css files with Stylus
-###You can edit desktop.styl and mobile.styl
-###You can add more .styl files as you like
-###All .styl will be built into .css when you make changes
+###Edit js and follow Angular way
+Add new controllers in /scripts/controllers
+Add new directives in /scripts/directives
+Add new templates in /app/views
 
-##Edit js and follow Angular way
-###Add new controllers in /scripts/controllers
-###Add new directives in /scripts/directives
-###Add new templates in /app/views
-
-##Edit Gruntfile.js
-###If you have more packages to include
+###Edit Gruntfile.js
+If you have more packages to include
