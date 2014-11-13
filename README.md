@@ -49,3 +49,6 @@ For more information, please check [here](http://karma-runner.github.io/0.12/ind
 
 ###Edit Gruntfile.js
 * If you have more packages to include
+
+##Demo
+Please check [here](http://yeoman-angular-stylus.herokuapp.com). 
