@@ -1,5 +1,4 @@
-#What we have here?
-=====================
+##What we have here?
 ###AngularJS
 
 AngularJS is a toolset for building the framework most suited to your application development.
@@ -31,8 +30,7 @@ Spectacular Test Runner for JavaScript.
 For more information, please check [here](http://karma-runner.github.io/0.12/index.html).
 
 
-#Install & Run
-=====================
+##Install & Run
 1. Download from github [here](https://github.com/mattyao1984/yeoman-angular-stylus), or you can do "git clone https://github.com/mattyao1984/yeoman-angular-stylus.git"
 
 2. Run "npm update -g bower" to update your bower and then run "bower update" in your project folder.
@@ -48,8 +46,7 @@ For more information, please check [here](http://karma-runner.github.io/0.12/ind
 7. You will see your changes in real-time without refreshing the browser!
 
 
-#What can I do with it now?
-=====================
+##What can I do with it now?
 ###Edit css files with Stylus
 * You can edit desktop.styl and mobile.styl
 * You can add more .styl files as you like
