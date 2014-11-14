@@ -39,17 +39,17 @@ For more information, please check [here](http://karma-runner.github.io/0.12/ind
 
 
 ##What can I do with it now?
-###Edit css files with Stylus
+####Edit css files with Stylus
 * You can edit desktop.styl and mobile.styl
 * You can add more .styl files as you like
 * All .styl will be built into .css when you make changes
 
-###Edit js and follow Angular way
+####Edit js and follow Angular way
 * Add new controllers in /scripts/controllers
 * Add new directives in /scripts/directives
 * Add new templates in /app/views
 
-###Edit Gruntfile.js
+####Edit Gruntfile.js
 * If you have more packages to include
 
 ##E2E Test with Behat & Selenium2 (optional)
