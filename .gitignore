@@ -1,4 +1,6 @@
 node_modules
+features
+behat.yml
 .tmp
 .sass-cache
 bower_components

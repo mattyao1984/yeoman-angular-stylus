@@ -50,12 +50,13 @@
 <div class="row marketing">
   <h2>Install & Run</h2>
   <p>1. Download from github <a href="https://github.com/mattyao1984/yeoman-angular-stylus" target="_blank">here</a>, or you can do "git clone https://github.com/mattyao1984/yeoman-angular-stylus.git"</p>
-  <p>2. Run "npm update -g bower" to update your bower and then run "bower update" in your project folder.</p>
-  <p>3. Install Node.js. If you don't have Node.js installed on your machine, you need to install it first. Download it <a href="http://nodejs.org/" target="_blank">here</a></p>
+  <p>2. Install Node.js. If you don't have Node.js installed on your machine, you need to install it first. Download it <a href="http://nodejs.org/" target="_blank">here</a></p>
+  <p>3. Run "npm update -g bower" to update your bower and then run "bower update" in your project folder.</p>
   <p>4. Install Grunt command line tool. If you don't have grunt installed on your machine, you need to install it first. Run this command in your terminal "npm install -g grunt-cli". It will install grunt command line on your machine globaly.</p>
   <p>5. Run "npm install" for dependecies.</p>
-  <p>6. Run "grunt serve" in your terminal. The server will be run on localhost:9000 by default.</p>
-  <p>7. You will see your changes in real-time without refreshing the browser!</p>
+  <p>6. Run "grunt build"</p>
+  <p>7. Run "grunt serve" in your terminal. The server will be run on localhost:9000 by default.</p>
+  <p>8. You will see your changes in real-time without refreshing the browser!</p>
 </div>
 
 <div class="row marketing">
@@ -83,4 +84,13 @@
       </ul>
     </li>
   </ul>
+</div>
+
+<div class="row marketing">
+  <h2>E2E Test with Behat & Selenium2 (optional)</h2>
+  <p>1. Download Selenium2 server from <a href="http://selenium-release.storage.googleapis.com/2.44/selenium-server-standalone-2.44.0.jar" target="_blank">here</a></p>
+  <p>2. Run the Selenium server "java -jar selenium-server-standalone-2.44.0.jar". You need to config your Java on your machine first.</p>
+  <p>3. Download composer <a href="https://getcomposer.org/download/" target="_blank">here</a></p>
+  <p>4. Run "composer install" and then "composer update" to install Behat packages.</p>
+  <p>5. Config behat.yml and write your tests. For more information, please check <a href="http://docs.behat.org/en/v2.5/quick_intro.html#installation">here</a>.</p>
 </div>
